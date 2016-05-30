@@ -1,0 +1,4 @@
+XamarinDemoApp.MainActivity, XamarinDemoApp;md5737a7e06e30da92700295a062d35a7af.MainActivity
+XamarinDemoApp.MainActivity, XamarinDemoApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5737a7e06e30da92700295a062d35a7af.MainActivity
+XamarinDemoApp.MainActivity;md5737a7e06e30da92700295a062d35a7af.MainActivity
+xamarindemoapp.MainActivity;md5737a7e06e30da92700295a062d35a7af.MainActivity
