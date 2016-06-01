@@ -79,7 +79,7 @@ public class MonoPackageManager {
 
 class MonoPackageManager_Resources {
 	public static final String[] Assemblies = new String[]{
-		"XamarinDemoApp.dll",
+		"StoreFood.dll",
 		"Shared.dll",
 		"System.Collections.Concurrent.dll",
 		"System.Collections.dll",

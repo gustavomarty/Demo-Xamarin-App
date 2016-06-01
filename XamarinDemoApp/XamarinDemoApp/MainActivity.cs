@@ -7,7 +7,7 @@ using Android.OS;
 
 namespace XamarinDemoApp
 {
-    [Activity(Label = "XamarinDemoApp", MainLauncher = true, Icon = "@drawable/icon")]
+    [Activity(Label = "StoreFood", MainLauncher = true, Icon = "@drawable/icon")]
     public class MainActivity : Activity
     {
         protected override void OnCreate(Bundle bundle)
