@@ -14,6 +14,9 @@ namespace XamarinDemoApp
         {
             base.OnCreate(bundle);
 
+
+
+
             // Set our view from the "main" layout resource
             SetContentView(Resource.Layout.Main);
 
