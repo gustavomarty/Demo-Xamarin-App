@@ -12,7 +12,8 @@ namespace Shared
     public class GitHubApi
     {
         /// <summary>
-        /// teste shcfbasiuhfoiasfdas
+        /// teste 
+        /// 
         /// </summary>
         /// <param name="user"></param>
         /// <returns>List<string></returns>
