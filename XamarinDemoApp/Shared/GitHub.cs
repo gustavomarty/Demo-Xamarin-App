@@ -15,7 +15,7 @@ namespace Shared
         /// teste
         /// </summary>
         /// <param name="user"></param>
-        /// <returns></returns>
+        /// <returns>List<string></returns>
         public async Task<List<string>> GetAsync (string user)
         {
             try
