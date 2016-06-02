@@ -12,7 +12,7 @@ namespace Shared
     public class GitHubApi
     {
         /// <summary>
-        /// teste
+        /// teste shcfbasiuhfoiasfdas
         /// </summary>
         /// <param name="user"></param>
         /// <returns>List<string></returns>
