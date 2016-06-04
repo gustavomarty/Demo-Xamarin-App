@@ -22,7 +22,6 @@ C:\Users\celto\Source\Repos\XamarinDemoApp\XamarinDemoApp\XamarinDemoApp\bin\Deb
 C:\Users\celto\Source\Repos\XamarinDemoApp\XamarinDemoApp\XamarinDemoApp\bin\Debug\Shared.dll
 C:\Users\celto\Source\Repos\XamarinDemoApp\XamarinDemoApp\XamarinDemoApp\bin\Debug\Newtonsoft.Json.dll
 C:\Users\celto\Source\Repos\XamarinDemoApp\XamarinDemoApp\XamarinDemoApp\bin\Debug\Shared.pdb
-C:\Users\celto\Source\Repos\XamarinDemoApp\XamarinDemoApp\XamarinDemoApp\bin\Debug\Shared.dll.mdb
 C:\Users\celto\Source\Repos\XamarinDemoApp\XamarinDemoApp\XamarinDemoApp\bin\Debug\Newtonsoft.Json.xml
 C:\Users\celto\Source\Repos\XamarinDemoApp\XamarinDemoApp\XamarinDemoApp\obj\Debug\XamarinDemoApp.droid.csprojResolveAssemblyReference.cache
 C:\Users\celto\Source\Repos\XamarinDemoApp\XamarinDemoApp\XamarinDemoApp\obj\Debug\android\bin\XamarinDemoApp.XamarinDemoApp.apk
@@ -36,5 +35,6 @@ C:\Users\celto\Source\Repos\XamarinDemoApp\XamarinDemoApp\XamarinDemoApp\bin\Deb
 C:\Users\celto\Source\Repos\XamarinDemoApp\XamarinDemoApp\XamarinDemoApp\bin\Debug\StoreFood.pdb
 C:\Users\celto\Source\Repos\XamarinDemoApp\XamarinDemoApp\XamarinDemoApp\obj\Debug\StoreFood.dll
 C:\Users\celto\Source\Repos\XamarinDemoApp\XamarinDemoApp\XamarinDemoApp\obj\Debug\StoreFood.pdb
+C:\Users\celto\Source\Repos\XamarinDemoApp\XamarinDemoApp\XamarinDemoApp\bin\Debug\Shared.dll.mdb
 C:\Users\celto\Source\Repos\XamarinDemoApp\XamarinDemoApp\XamarinDemoApp\obj\Debug\StoreFood.dll.mdb
 C:\Users\celto\Source\Repos\XamarinDemoApp\XamarinDemoApp\XamarinDemoApp\bin\Debug\StoreFood.dll.mdb
