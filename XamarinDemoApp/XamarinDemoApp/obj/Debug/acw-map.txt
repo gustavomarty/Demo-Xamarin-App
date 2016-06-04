@@ -1,4 +1,0 @@
-XamarinDemoApp.MainActivity, StoreFood;md5ef317c179259b858dab550237b8a7bf6.MainActivity
-XamarinDemoApp.MainActivity, StoreFood, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ef317c179259b858dab550237b8a7bf6.MainActivity
-XamarinDemoApp.MainActivity;md5ef317c179259b858dab550237b8a7bf6.MainActivity
-xamarindemoapp.MainActivity;md5ef317c179259b858dab550237b8a7bf6.MainActivity
