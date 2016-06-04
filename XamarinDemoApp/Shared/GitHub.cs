@@ -12,10 +12,11 @@ namespace Shared
     public class GitHubApi
     {
         /// <summary>
-        /// teste
+        /// teste 
+        /// 
         /// </summary>
-        /// <param name="user">username</param>
-        /// <returns>lista de string</returns>
+        /// <param name="user"></param>
+        /// <returns>List<string></returns>
         public async Task<List<string>> GetAsync (string user)
         {
             try
