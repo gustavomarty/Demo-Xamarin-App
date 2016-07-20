@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <Button
+        android:id="@+id/btnTelaDinamica"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tela montada dinamicamente" />
+
+    <Button
+        android:id="@+id/btnLayoutRelativo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Demo Layout Relativo" />
+
+    <Button
+        android:id="@+id/btnLayoutLinear"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Demo Layout Linear" />
+
+    <Button
+        android:id="@+id/btnLayoutTabular"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Demo Layout Tabular" />
+</LinearLayout>
