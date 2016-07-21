@@ -19,6 +19,7 @@ namespace TreinamentoApp
         {
             base.OnCreate(savedInstanceState);
 
+            SetContentView(Resource.Layout.LayoutTabular);
             // Create your application here
         }
     }
