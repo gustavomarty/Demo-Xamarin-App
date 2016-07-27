@@ -16,7 +16,6 @@ namespace MyApp.Activities
     [Activity(Label = "Home", MainLauncher = true, LaunchMode = LaunchMode.SingleTop, Icon = "@drawable/Icon")]
     public class MainActivity : BaseActivity
     {
-
         DrawerLayout drawerLayout;
         NavigationView navigationView;
 
@@ -54,6 +53,15 @@ namespace MyApp.Activities
                     case Resource.Id.nav_home_2:
                         ListItemClicked(1);
                         break;
+                    case Resource.Id.nav_home_3:
+                        ListItemClicked(2);
+                        break;
+                    case Resource.Id.nav_home_4:
+                        ListItemClicked(3);
+                        break;
+                    case Resource.Id.nav_home_5:
+                        ListItemClicked(4);
+                        break;
                 }
 
                 Snackbar.Make(drawerLayout, "You selected: " + e.MenuItem.TitleFormatted, Snackbar.LengthLong)
@@ -83,10 +91,19 @@ namespace MyApp.Activities
             switch (position)
             {
                 case 0:
-                    fragment = Fragment1.NewInstance();
+                    fragment = RequestGit.NewInstance();
                     break;
                 case 1:
-                    fragment = Fragment2.NewInstance();
+                    fragment = LayoutRelativoDemo.NewInstance();
+                    break;
+                case 2:
+                    fragment = LayoutTabularDemo.NewInstance();
+                    break;
+                case 3:
+                    fragment = LinearLayoutDemo.NewInstance();
+                    break;
+                case 4:
+                    fragment = Fragment1.NewInstance();
                     break;
             }
 

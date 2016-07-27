@@ -2,10 +2,22 @@ MyApp.Fragments.Fragment1, MyApp;md5f0b99475c039bd8341c0dd4dc391ed92.Fragment1
 MyApp.Fragments.Fragment1, MyApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f0b99475c039bd8341c0dd4dc391ed92.Fragment1
 MyApp.Fragments.Fragment1;md5f0b99475c039bd8341c0dd4dc391ed92.Fragment1
 myapp.fragments.Fragment1;md5f0b99475c039bd8341c0dd4dc391ed92.Fragment1
-MyApp.Fragments.Fragment2, MyApp;md5f0b99475c039bd8341c0dd4dc391ed92.Fragment2
-MyApp.Fragments.Fragment2, MyApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f0b99475c039bd8341c0dd4dc391ed92.Fragment2
-MyApp.Fragments.Fragment2;md5f0b99475c039bd8341c0dd4dc391ed92.Fragment2
-myapp.fragments.Fragment2;md5f0b99475c039bd8341c0dd4dc391ed92.Fragment2
+MyApp.Fragments.LayoutRelativoDemo, MyApp;md5f0b99475c039bd8341c0dd4dc391ed92.LayoutRelativoDemo
+MyApp.Fragments.LayoutRelativoDemo, MyApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f0b99475c039bd8341c0dd4dc391ed92.LayoutRelativoDemo
+MyApp.Fragments.LayoutRelativoDemo;md5f0b99475c039bd8341c0dd4dc391ed92.LayoutRelativoDemo
+myapp.fragments.LayoutRelativoDemo;md5f0b99475c039bd8341c0dd4dc391ed92.LayoutRelativoDemo
+MyApp.Fragments.LayoutTabularDemo, MyApp;md5f0b99475c039bd8341c0dd4dc391ed92.LayoutTabularDemo
+MyApp.Fragments.LayoutTabularDemo, MyApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f0b99475c039bd8341c0dd4dc391ed92.LayoutTabularDemo
+MyApp.Fragments.LayoutTabularDemo;md5f0b99475c039bd8341c0dd4dc391ed92.LayoutTabularDemo
+myapp.fragments.LayoutTabularDemo;md5f0b99475c039bd8341c0dd4dc391ed92.LayoutTabularDemo
+MyApp.Fragments.LinearLayoutDemo, MyApp;md5f0b99475c039bd8341c0dd4dc391ed92.LinearLayoutDemo
+MyApp.Fragments.LinearLayoutDemo, MyApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f0b99475c039bd8341c0dd4dc391ed92.LinearLayoutDemo
+MyApp.Fragments.LinearLayoutDemo;md5f0b99475c039bd8341c0dd4dc391ed92.LinearLayoutDemo
+myapp.fragments.LinearLayoutDemo;md5f0b99475c039bd8341c0dd4dc391ed92.LinearLayoutDemo
+MyApp.Fragments.RequestGit, MyApp;md5f0b99475c039bd8341c0dd4dc391ed92.RequestGit
+MyApp.Fragments.RequestGit, MyApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f0b99475c039bd8341c0dd4dc391ed92.RequestGit
+MyApp.Fragments.RequestGit;md5f0b99475c039bd8341c0dd4dc391ed92.RequestGit
+myapp.fragments.RequestGit;md5f0b99475c039bd8341c0dd4dc391ed92.RequestGit
 MyApp.Activities.MainActivity, MyApp;md53f8bed30a2a1a604a41b444f26d5cb68.MainActivity
 MyApp.Activities.MainActivity, MyApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md53f8bed30a2a1a604a41b444f26d5cb68.MainActivity
 MyApp.Activities.MainActivity;md53f8bed30a2a1a604a41b444f26d5cb68.MainActivity

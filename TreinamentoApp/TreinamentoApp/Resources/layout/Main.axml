@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
+
+<android.support.v4.widget.DrawerLayout>
+  
+</android.support.v4.widget.DrawerLayout>
+
+
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
     android:layout_width="match_parent"
@@ -8,22 +14,29 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Tela montada dinamicamente" />
-
     <Button
         android:id="@+id/btnLayoutRelativo"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Demo Layout Relativo" />
-
     <Button
         android:id="@+id/btnLayoutLinear"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Demo Layout Linear" />
-
     <Button
         android:id="@+id/btnLayoutTabular"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Demo Layout Tabular" />
+    <Button
+        android:id="@+id/btnDemoDesenhador"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Demo Layout Tabular" />
+    <Button
+        android:id="@+id/btnDemoListView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Demo List View" />
 </LinearLayout>

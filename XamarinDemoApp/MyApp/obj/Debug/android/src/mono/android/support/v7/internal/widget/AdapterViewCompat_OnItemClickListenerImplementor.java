@@ -7,7 +7,8 @@ public class AdapterViewCompat_OnItemClickListenerImplementor
 		mono.android.IGCUserPeer,
 		android.support.v7.internal.widget.AdapterViewCompat.OnItemClickListener
 {
-	static final String __md_methods;
+/** @hide */
+	public static final String __md_methods;
 	static {
 		__md_methods = 
 			"n_onItemClick:(Landroid/support/v7/internal/widget/AdapterViewCompat;Landroid/view/View;IJ)V:GetOnItemClick_Landroid_support_v7_internal_widget_AdapterViewCompat_Landroid_view_View_IJHandler:Android.Support.V7.Internal.Widget.AdapterViewCompat/IOnItemClickListenerInvoker, Xamarin.Android.Support.v7.AppCompat\n" +
@@ -31,7 +32,7 @@ public class AdapterViewCompat_OnItemClickListenerImplementor
 
 	private native void n_onItemClick (android.support.v7.internal.widget.AdapterViewCompat p0, android.view.View p1, int p2, long p3);
 
-	java.util.ArrayList refList;
+	private java.util.ArrayList refList;
 	public void monodroidAddReference (java.lang.Object obj)
 	{
 		if (refList == null)

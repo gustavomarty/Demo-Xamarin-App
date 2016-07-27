@@ -41,6 +41,9 @@
     <AndroidLinkMode>SdkOnly</AndroidLinkMode>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="AlertCenter.Android">
+      <HintPath>..\Components\alert-center-1.0.6\lib\android\AlertCenter.Android.dll</HintPath>
+    </Reference>
     <Reference Include="Mono.Android" />
     <Reference Include="mscorlib" />
     <Reference Include="System" />
@@ -52,6 +55,7 @@
     <Compile Include="Activity2.cs" />
     <Compile Include="LayoutRelativoDemo.cs" />
     <Compile Include="LayoutTabularDemo.cs" />
+    <Compile Include="ListViewDemo.cs" />
     <Compile Include="MainActivity.cs" />
     <Compile Include="LinearLayoutDemo.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />
@@ -71,6 +75,12 @@
     <AndroidResource Include="Resources\layout\LayoutTabular.axml">
       <SubType>Designer</SubType>
     </AndroidResource>
+    <AndroidResource Include="Resources\layout\DemoUsandoDesenhador.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\menu\menu.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\layout\Main.axml">
@@ -85,6 +95,18 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Properties\AndroidManifest.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\Placeholder.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <XamarinComponentReference Include="alert-center">
+      <Visible>False</Visible>
+      <Version>1.0.6</Version>
+    </XamarinComponentReference>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\values\Styles.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

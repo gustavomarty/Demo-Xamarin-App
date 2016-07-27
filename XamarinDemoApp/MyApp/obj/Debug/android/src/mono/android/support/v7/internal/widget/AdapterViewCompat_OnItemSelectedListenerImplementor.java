@@ -7,7 +7,8 @@ public class AdapterViewCompat_OnItemSelectedListenerImplementor
 		mono.android.IGCUserPeer,
 		android.support.v7.internal.widget.AdapterViewCompat.OnItemSelectedListener
 {
-	static final String __md_methods;
+/** @hide */
+	public static final String __md_methods;
 	static {
 		__md_methods = 
 			"n_onItemSelected:(Landroid/support/v7/internal/widget/AdapterViewCompat;Landroid/view/View;IJ)V:GetOnItemSelected_Landroid_support_v7_internal_widget_AdapterViewCompat_Landroid_view_View_IJHandler:Android.Support.V7.Internal.Widget.AdapterViewCompat/IOnItemSelectedListenerInvoker, Xamarin.Android.Support.v7.AppCompat\n" +
@@ -40,7 +41,7 @@ public class AdapterViewCompat_OnItemSelectedListenerImplementor
 
 	private native void n_onNothingSelected (android.support.v7.internal.widget.AdapterViewCompat p0);
 
-	java.util.ArrayList refList;
+	private java.util.ArrayList refList;
 	public void monodroidAddReference (java.lang.Object obj)
 	{
 		if (refList == null)
