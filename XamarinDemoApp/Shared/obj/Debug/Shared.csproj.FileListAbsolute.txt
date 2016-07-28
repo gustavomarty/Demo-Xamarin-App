@@ -27,16 +27,9 @@ C:\Projetos\Git\XamarinDemoApp\XamarinDemoApp\Shared\bin\Debug\System.Net.Http.E
 C:\Projetos\Git\XamarinDemoApp\XamarinDemoApp\Shared\bin\Debug\System.Net.Http.Formatting.xml
 C:\Projetos\Git\XamarinDemoApp\XamarinDemoApp\Shared\bin\Debug\System.Net.Http.Primitives.xml
 C:\Projetos\Git\XamarinDemoApp\XamarinDemoApp\Shared\obj\Debug\Shared.csproj.App.config
+C:\Projetos\Git\XamarinDemoApp\XamarinDemoApp\Shared\obj\Debug\Shared.csprojResolveAssemblyReference.cache
 C:\Projetos\Git\XamarinDemoApp\XamarinDemoApp\Shared\obj\Debug\Shared.dll
 C:\Projetos\Git\XamarinDemoApp\XamarinDemoApp\Shared\obj\Debug\Shared.pdb
-C:\Projetos\Git\XamarinDemoApp\XamarinDemoApp\Shared\obj\Debug\Shared.dll.mdb
-C:\Projetos\Git\XamarinDemoApp\XamarinDemoApp\Shared\bin\Debug\Shared.dll.mdb
-C:\Projetos\Git\XamarinDemoApp\XamarinDemoApp\Shared\obj\Debug\Shared.dll.mdb
-C:\Projetos\Git\XamarinDemoApp\XamarinDemoApp\Shared\bin\Debug\Shared.dll.mdb
-C:\Projetos\Git\XamarinDemoApp\XamarinDemoApp\Shared\obj\Debug\Shared.dll.mdb
-C:\Projetos\Git\XamarinDemoApp\XamarinDemoApp\Shared\bin\Debug\Shared.dll.mdb
-C:\Projetos\Git\XamarinDemoApp\XamarinDemoApp\Shared\obj\Debug\Shared.dll.mdb
-C:\Projetos\Git\XamarinDemoApp\XamarinDemoApp\Shared\bin\Debug\Shared.dll.mdb
 C:\Projetos\Git\XamarinDemoApp\XamarinDemoApp\Shared\obj\Debug\Shared.dll.mdb
 C:\Projetos\Git\XamarinDemoApp\XamarinDemoApp\Shared\bin\Debug\Shared.dll.mdb
 C:\Projetos\Git\XamarinDemoApp\XamarinDemoApp\Shared\obj\Debug\Shared.dll.mdb

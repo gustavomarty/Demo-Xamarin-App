@@ -27,3 +27,16 @@ C:\Projetos\Git\XamarinDemoApp\XamarinDemoApp\MyApp\obj\Debug\android\assets\Sys
 C:\Projetos\Git\XamarinDemoApp\XamarinDemoApp\MyApp\obj\Debug\android\assets\System.Resources.ResourceManager.dll
 C:\Projetos\Git\XamarinDemoApp\XamarinDemoApp\MyApp\obj\Debug\android\assets\System.Threading.Tasks.dll
 C:\Projetos\Git\XamarinDemoApp\XamarinDemoApp\MyApp\obj\Debug\android\assets\Newtonsoft.Json.dll
+C:\Projetos\Git\XamarinDemoApp\XamarinDemoApp\MyApp\obj\Debug\android\assets\System.IO.dll
+C:\Projetos\Git\XamarinDemoApp\XamarinDemoApp\MyApp\obj\Debug\android\assets\System.Xml.XDocument.dll
+C:\Projetos\Git\XamarinDemoApp\XamarinDemoApp\MyApp\obj\Debug\android\assets\System.Globalization.dll
+C:\Projetos\Git\XamarinDemoApp\XamarinDemoApp\MyApp\obj\Debug\android\assets\System.Runtime.Serialization.Primitives.dll
+C:\Projetos\Git\XamarinDemoApp\XamarinDemoApp\MyApp\obj\Debug\android\assets\System.Linq.Expressions.dll
+C:\Projetos\Git\XamarinDemoApp\XamarinDemoApp\MyApp\obj\Debug\android\assets\System.Dynamic.Runtime.dll
+C:\Projetos\Git\XamarinDemoApp\XamarinDemoApp\MyApp\obj\Debug\android\assets\System.ObjectModel.dll
+C:\Projetos\Git\XamarinDemoApp\XamarinDemoApp\MyApp\obj\Debug\android\assets\System.Text.RegularExpressions.dll
+C:\Projetos\Git\XamarinDemoApp\XamarinDemoApp\MyApp\obj\Debug\android\assets\System.Xml.ReaderWriter.dll
+C:\Projetos\Git\XamarinDemoApp\XamarinDemoApp\MyApp\obj\Debug\android\assets\System.Text.Encoding.dll
+C:\Projetos\Git\XamarinDemoApp\XamarinDemoApp\MyApp\obj\Debug\android\assets\System.Text.Encoding.Extensions.dll
+C:\Projetos\Git\XamarinDemoApp\XamarinDemoApp\MyApp\obj\Debug\android\assets\Microsoft.CSharp.dll
+C:\Projetos\Git\XamarinDemoApp\XamarinDemoApp\MyApp\obj\Debug\android\assets\Mono.CSharp.dll

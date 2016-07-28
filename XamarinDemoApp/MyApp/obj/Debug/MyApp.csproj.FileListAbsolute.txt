@@ -48,6 +48,7 @@ C:\Users\celto\Source\Repos\XamarinDemoApp\XamarinDemoApp\MyApp\bin\Debug\Shared
 C:\Users\celto\Source\Repos\XamarinDemoApp\XamarinDemoApp\MyApp\bin\Debug\Newtonsoft.Json.xml
 C:\Users\celto\Source\Repos\XamarinDemoApp\XamarinDemoApp\MyApp\obj\Debug\MyApp.dll.mdb
 C:\Users\celto\Source\Repos\XamarinDemoApp\XamarinDemoApp\MyApp\bin\Debug\MyApp.dll.mdb
+C:\Projetos\Git\XamarinDemoApp\XamarinDemoApp\MyApp\bin\Debug\MyApp.dll.config
 C:\Projetos\Git\XamarinDemoApp\XamarinDemoApp\MyApp\bin\Debug\MyApp.dll
 C:\Projetos\Git\XamarinDemoApp\XamarinDemoApp\MyApp\bin\Debug\MyApp.pdb
 C:\Projetos\Git\XamarinDemoApp\XamarinDemoApp\MyApp\bin\Debug\com.refractored.navdrawer.samplecompat.apk
@@ -107,7 +108,9 @@ C:\Projetos\Git\XamarinDemoApp\XamarinDemoApp\MyApp\obj\Debug\uploadflags.txt
 C:\Projetos\Git\XamarinDemoApp\XamarinDemoApp\MyApp\bin\Debug\MyApp.dll.mdb
 C:\Projetos\Git\XamarinDemoApp\XamarinDemoApp\MyApp\bin\Debug\Shared.dll.mdb
 C:\Projetos\Git\XamarinDemoApp\XamarinDemoApp\MyApp\bin\Debug\Java.Interop.dll.mdb
+C:\Projetos\Git\XamarinDemoApp\XamarinDemoApp\MyApp\bin\Debug\Microsoft.CSharp.dll.mdb
 C:\Projetos\Git\XamarinDemoApp\XamarinDemoApp\MyApp\bin\Debug\Mono.Android.dll.mdb
+C:\Projetos\Git\XamarinDemoApp\XamarinDemoApp\MyApp\bin\Debug\Mono.CSharp.dll.mdb
 C:\Projetos\Git\XamarinDemoApp\XamarinDemoApp\MyApp\bin\Debug\mscorlib.dll.mdb
 C:\Projetos\Git\XamarinDemoApp\XamarinDemoApp\MyApp\bin\Debug\System.ComponentModel.Composition.dll.mdb
 C:\Projetos\Git\XamarinDemoApp\XamarinDemoApp\MyApp\bin\Debug\System.Core.dll.mdb
@@ -118,7 +121,9 @@ C:\Projetos\Git\XamarinDemoApp\XamarinDemoApp\MyApp\bin\Debug\System.ServiceMode
 C:\Projetos\Git\XamarinDemoApp\XamarinDemoApp\MyApp\bin\Debug\System.Xml.dll.mdb
 C:\Projetos\Git\XamarinDemoApp\XamarinDemoApp\MyApp\bin\Debug\System.Xml.Linq.dll.mdb
 C:\Projetos\Git\XamarinDemoApp\XamarinDemoApp\MyApp\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Projetos\Git\XamarinDemoApp\XamarinDemoApp\MyApp\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
 C:\Projetos\Git\XamarinDemoApp\XamarinDemoApp\MyApp\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Projetos\Git\XamarinDemoApp\XamarinDemoApp\MyApp\obj\Debug\android\assets\Mono.CSharp.dll.mdb
 C:\Projetos\Git\XamarinDemoApp\XamarinDemoApp\MyApp\obj\Debug\android\assets\mscorlib.dll.mdb
 C:\Projetos\Git\XamarinDemoApp\XamarinDemoApp\MyApp\obj\Debug\android\assets\MyApp.dll.mdb
 C:\Projetos\Git\XamarinDemoApp\XamarinDemoApp\MyApp\obj\Debug\android\assets\Shared.dll.mdb
